@@ -7,7 +7,7 @@
 💻 On a journey to become a **Full Stack Web Developer** 
 🧠 Fascinated by **AI, ML, and how technology shapes the future**  
 💬 I enjoy coding in *C, Java, JavaScript, and Python*  
-📫 Let’s connect on *LinkedIn*: [Vivek M A](linkedin.com/in/vivek-m-a-54a220355)  
+📫 Let’s connect on *LinkedIn*: [Vivek M A](https://www.linkedin.com/in/vivek-m-a-54a220355/)  
 ⚡ *Fun Fact:* I’m a student who loves tech, teamwork, and turning ideas into reality
 
 ---
