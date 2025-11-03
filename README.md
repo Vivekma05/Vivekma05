@@ -3,28 +3,47 @@
 
 ---
 
-### 🌟 About Me  
-💻 On a journey to become a **Full Stack Web Developer** 
-🧠 Fascinated by **AI, ML, and how technology shapes the future**  
-💬 I enjoy coding in *C, Java, JavaScript, and Python*  
-📫 Let’s connect on *LinkedIn*: [Vivek M A](https://www.linkedin.com/in/vivek-m-a-54a220355/)  
-⚡ *Fun Fact:* I’m a student who loves tech, teamwork, and turning ideas into reality
+💻 **Code. Learn. Build. Repeat.**
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vivek-m-a-54a220355/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_vivek_mirajkar_?igsh=MThvMTQ5Mmw2MzY0Mg==" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://leetcode.com/u/Vivek_M_A/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+### 🌐 Connect with Me  
+- 📧 **Email:** [vivekvivek4114@gmail.com](mailto:vivekvivek4114@gmail.com)  
+- 💼 **LinkedIn:** [Vivek M A](https://www.linkedin.com/in/vivek-m-a-54a220355/)  
+- 📸 **Instagram:** [@_vivek_mirajkar_](https://www.instagram.com/_vivek_mirajkar_?igsh=MThvMTQ5Mmw2MzY0Mg==)  
+- 🧠 **LeetCode:** [Vivek_M_A](https://leetcode.com/u/Vivek_M_A/)  
+
+---
+
+### 🏆 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekma05&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekma05&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vivekma05&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">✨ "Eat. Sleep. Code. Repeat." ✨</h3>
+### 💡 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Vivek_M_A?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🚀 About Me  
+I'm passionate about building real-world projects that combine **AI, ML, and Full-Stack Development**.  
+Currently exploring:  
+- 🤖 **AI-powered web applications**  
+- 🧠 **Deep Learning (LSTM, NLP)**  
+- 🌐 **MERN Stack projects**  
+
+---
+
+⭐ *“Stay curious. Keep building.”*
+
